@@ -154,7 +154,7 @@ By default, the agent in the Second Flow will end the call after 30 seconds.
 6.  Add the new scenario to **CallScenarios.py**             
         a. Copy the below code   
         b. Replace *\# Region Scenario1* with your Scenario number.   
-        c. Replace “*Scenario = "Scenario1*"” with the Scenario\# you created in step 3.   
+        c. Replace “*Scenario = "Scenario1*"” with the Scenario\# you created in step 5.   
         d. Modify *ScenarioTestFiles* to point towards the new scenario .robot scripts.     
         e. Paste the modified code at the bottom of **CallScenarios.py**   
 
